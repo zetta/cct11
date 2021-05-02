@@ -19,5 +19,13 @@ Any undeclared items are not allowed to enter the camp, please be careful to lis
 
 Remember, to obtain pre-approval, please apply 24 hours before delivery
 
+## Not allowed
+
+Items not allowed to enter the ~prison~ camp
+
+- Alcohol 
+- Cigarretes
+- Haven't asked yet but I gues also any dangerous item such explosives 
+
 ## Read more
  - [How to reach there?](./location.md)
