@@ -1,5 +1,13 @@
 # Useful numbers inside Penny Bay 
 
+### Hotlines: 
+
+
+- [+852 5195 7762](https://api.whatsapp.com/send?phone=+85251957762)
+- [+852 5195 7062](https://api.whatsapp.com/send?phone=+85251957062)
+- [+852 5195 6970](https://api.whatsapp.com/send?phone=+85251956970)
+
+
 **Each PB block has different numbers**
 
 你好，這是竹篙灣檢疫中心24小時熱線。如有任何需要或查詢，可隨時聯絡我們
@@ -19,10 +27,3 @@ Should you have any issues with any arrangements for meals, please feel free to 
 This is the Penny’s Bay Quarantine Centre 24-hour Hotline. Please feel free to contact us anytime should you require any assistance
 Other than WhatsApp, you may also contact us via our landline at: [27591600](tel:27591600)/ [28022682](tel:28022682)/[26732010](tel:26732010)
 
-
-### Hotlines: 
-
-
-- [+852 5195 7762](https://api.whatsapp.com/send?phone=+85251957762)
-- [+852 5195 7062](https://api.whatsapp.com/send?phone=+85251957062)
-- [+852 5195 6970](https://api.whatsapp.com/send?phone=+85251956970)
