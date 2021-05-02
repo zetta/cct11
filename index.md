@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Caribbean Coast Tower 11 Quarantine Cheat Sheet
 
-You can use the [editor on GitHub](https://github.com/zetta/cct11.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This document tries to fit FAQ for inmates of Penny Bay and LYM. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Penny Bay 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### LYM
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Why are we here? 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zetta/cct11.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(lmgtfy)
+- https://www.info.gov.hk/gia/general/202104/29/P2021042900883.htm
+- https://www.thestandard.com.hk/section-news/section/4/229780/New-mutant-case-sparks-lockdown
+- https://www.scmp.com/news/hong-kong/health-environment/article/3131566/coronavirus-genome-sequencing-rules-out-domestic
+- https://www.news.gov.hk/eng/2021/04/20210429/20210429_224606_324.html
