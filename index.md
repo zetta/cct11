@@ -19,9 +19,11 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 
 - **Which number do I use to file a complaint?**
   - Please call [21251111](tel:+85221251111)
-  - [Here is a list of the common complaints we have](./complaints.md)
+  - [Here is a list of the common complaints we've made](./complaints.md)
 - **Is there any WiFi**
   - The facilites aren't equiped with wifi inmates are responsibles for their own data consumtion, you can request on the [hotline](./pb/phone.md) to provide a SIM card but it won't have a big data package will only work for emergencies, better to [ask a friend](./pb/delivery.md) to provide you with a prepaid sim card. 
+- **Which items I can request from the hotline?**
+  - [Here is a list of items we know the hotline can provide.](./items.md) 
 - **How do I get my quarantine order?**
   - Execute your right to have an official notice by sending a message to:
     -  [+852 5195 6970](https://api.whatsapp.com/send?phone=+85251956970&text=We%20are%20being%20unlawfuly%20detained%20in%20the%20camp%20for%20several%20days%20already.%20We%20haven%27t%20seen%20our%20quarantine%20orders%20yet.%20Send%20us%20orders%20or%20we%20are%20walking%20away.)
