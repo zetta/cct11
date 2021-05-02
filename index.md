@@ -18,6 +18,8 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 
 - **Some persons have received their official notice, how do I get mine?**
   - Execute your right to have an official notice by sending a message to [+852 5195 6970](whatsapp:+852 5195 6970)
+  - Your official note must say the period of time you are supposed to be on quarantine 
+    ![officialnote-quarantine](https://user-images.githubusercontent.com/204105/116801022-b6e65a00-ab38-11eb-9f2c-8ab9ce241f4e.jpeg)
 - **Why is my floor wet & sticky?**
   - It seems to be some sort of desinfectant which is sticky and wet. Recommendation is to mop the flor and set the Aircon to dry mode with vents facing down. 
 
