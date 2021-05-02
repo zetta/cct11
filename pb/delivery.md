@@ -1,5 +1,10 @@
 # Item delivery in Penny Bay
-[Back](https://zetta.github.io/cct11/)
+
+🌟 Remember, your friend will require the number of your unit to be able to send you stuff 🌟
+
+Example:
+![unit-address](https://user-images.githubusercontent.com/204105/116799133-e9885680-ab28-11eb-93de-977c63c2bf21.jpeg)
+
 
 
 Any item entering the camp must be applied for approval. 
@@ -37,3 +42,4 @@ Items not allowed to enter the ~prison~ camp
 
 ## Read more
  - [How to reach there?](./location.md)
+ - [Home Page](https://zetta.github.io/cct11/)
