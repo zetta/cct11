@@ -19,13 +19,20 @@ Any undeclared items are not allowed to enter the camp, please be careful to lis
 
 Remember, to obtain pre-approval, please apply 24 hours before delivery
 
-## Not allowed
+🌟 **I personally recommend use option b) and approve on site** 🌟
+
+### How long will it take?
+
+It can take a couple of hours since your buddies drop the stuff by the gate, be patient 🙏. 
+
+
+### Not allowed
 
 Items not allowed to enter the ~prison~ camp
 
 - Alcohol 
 - Cigarretes
-- Haven't asked yet but I gues also any dangerous item such explosives 
+- Haven't asked yet but I guess also any dangerous item such as explosives 
 
 ## Read more
  - [How to reach there?](./location.md)
