@@ -1,6 +1,6 @@
 ## Caribbean Coast Tower 11 Quarantine Cheat Sheet
 
-This document tries to fit FAQ for inmates of Penny Bay and LYM. 
+This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of information has been shared across whatsapp, however lineal conversation tools aren't always the right place to search for historical help, and we all keep repeating ourselves over and over. 
 
 ### Penny Bay 
 - [Location](./pb/location.md)
@@ -18,6 +18,12 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM.
 
 - **Why is my floor wet & sticky?**
   - It seems to be some sort of desinfectant which is sticky and wet. Recommendation is to mop the flor and set the Aircon to dry mode with vents facing down. 
+
+### Channels
+Channels we are using to comunicate to each other
+
+- [WhatsApp](https://chat.whatsapp.com/FiJApkrruOj8v3H80HZjKt?fbclid=IwAR3ylpKY-mNhGnpX2czfcRDbpkCm0V3psNZS4lMn47Onp5_FgjVji2eGspc)
+- [Telegram](https://t.me/joinchat/-RErA3x43EdkNGNl)
 
 ### Media
 
