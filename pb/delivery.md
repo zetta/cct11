@@ -1,12 +1,5 @@
 # Item delivery in Penny Bay
 
-🌟 Remember, your friend will require the number of your unit to be able to send you stuff 🌟
-
-Example:
-![unit-address](https://user-images.githubusercontent.com/204105/116799133-e9885680-ab28-11eb-93de-977c63c2bf21.jpeg)
-
-
-
 Any item entering the camp must be applied for approval. 
 
 - Option (a):
@@ -26,6 +19,12 @@ Any undeclared items are not allowed to enter the camp, please be careful to lis
 Remember, to obtain pre-approval, please apply 24 hours before delivery
 
 🌟 **I personally recommend use option b) and approve on site** 🌟
+
+🌟 Remember, your friend will require the number of your unit to be able to send you stuff 🌟
+
+Example:
+![unit-address](https://user-images.githubusercontent.com/204105/116799133-e9885680-ab28-11eb-93de-977c63c2bf21.jpeg)
+
 
 ### How long will it take?
 
