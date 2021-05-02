@@ -8,13 +8,13 @@
 
 Should you have any issues with any arrangements for meals, please feel free to contact our meal team at:
 
-- Block 1-26       51956919
-- Block 27-52      51956935
-- Block 53-72      51957023
-- Block 73-96      51957315
-- Block 97-149     51957819
-- Block 150-202    51957829
-- Block 203-220    51957280
+- Block 1-26       [51956919](tel:+85251956919)
+- Block 27-52      [51956935](tel:+85251956935)
+- Block 53-72      [51957023](tel:+85251957023)
+- Block 73-96      [51957315](tel:+85251957315)
+- Block 97-149     [51957819](tel:+85251957819)
+- Block 150-202    [51957829](tel:+85251957829)
+- Block 203-220    [51957280](tel:+85251957280)
 
 This is the Penny’s Bay Quarantine Centre 24-hour Hotline. Please feel free to contact us anytime should you require any assistance
 Other than WhatsApp, you may also contact us via our landline at: [27591600](tel:27591600)/ [28022682](tel:28022682)/[26732010](tel:26732010)
