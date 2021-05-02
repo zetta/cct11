@@ -3,7 +3,8 @@
 This document tries to fit FAQ for inmates of Penny Bay and LYM. 
 
 ### Penny Bay 
-
+- [Location](./pb/location.md)
+- [Item Delivery](./pb/delivery.md)
 
 ### LYM
 
