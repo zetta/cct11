@@ -1,6 +1,6 @@
 ## Penny Bay Location 
 
-[Google Map Location](https://www.google.com/maps/@22.3177306,114.0502544,18.14z)
+[Google Map Location](https://maps.google.com/maps?q=22.317493438720703%2C114.05007934570312&z=17&hl=en)
 
 ![PennyBayLocation](https://user-images.githubusercontent.com/204105/116798918-e9875700-ab26-11eb-8595-4980cf897740.jpeg)
 
