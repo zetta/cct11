@@ -27,3 +27,5 @@ Should you have any issues with any arrangements for meals, please feel free to 
 This is the Penny’s Bay Quarantine Centre 24-hour Hotline. Please feel free to contact us anytime should you require any assistance
 Other than WhatsApp, you may also contact us via our landline at: [27591600](tel:27591600)/ [28022682](tel:28022682)/[26732010](tel:26732010)
 
+### Read More
+- [Home Page](https://zetta.github.io/cct11/)
