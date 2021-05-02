@@ -26,6 +26,8 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
     
     A good example to demmand the document:
     > "We are being unlawfuly detained in the camp for several days already. We haven't seen our quarantine orders yet. Send us orders or we are walking away."
+- **Which number do I use to file a complaint?**
+  - Please call [21251111](tel:+85221251111)
 - **Why is my floor wet & sticky?**
   - It seems to be some sort of desinfectant which is sticky and wet. Recommendation is to mop the flor and set the Aircon to dry mode with vents facing down. 
 
