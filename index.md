@@ -17,7 +17,7 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 ### FAQ
 
 _ **Some persons have received their official notice, how do I get mine?**
-  - Execute your right to have an official notice by sending a message to [+852 5195 6970](tel:+852 5195 6970)
+  - Execute your right to have an official notice by sending a message to [+852 5195 6970](whatsapp:+852 5195 6970)
 
 - **Why is my floor wet & sticky?**
   - It seems to be some sort of desinfectant which is sticky and wet. Recommendation is to mop the flor and set the Aircon to dry mode with vents facing down. 
