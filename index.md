@@ -17,6 +17,9 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 
 ### FAQ
 
+- **Which number do I use to file a complaint?**
+  - Please call [21251111](tel:+85221251111)
+  - [Here is a list of the common complaints we have](./complaints.md)
 - **Is there any WiFi**
   - The facilites aren't equiped with wifi inmates are responsibles for their own data consumtion, you can request on the [hotline](./pb/phone.md) to provide a SIM card but it won't have a big data package will only work for emergencies, better to [ask a friend](./pb/delivery.md) to provide you with a prepaid sim card. 
 - **Some persons have received their official notice, how do I get mine?**
@@ -28,8 +31,6 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
     
     A good example to demmand the document:
     > "We are being unlawfuly detained in the camp for several days already. We haven't seen our quarantine orders yet. Send us orders or we are walking away."
-- **Which number do I use to file a complaint?**
-  - Please call [21251111](tel:+85221251111)
 - **Why is my floor wet & sticky?**
   - It seems to be some sort of desinfectant which is sticky and wet. Recommendation is to mop the flor and set the Aircon to dry mode with vents facing down. 
 
