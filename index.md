@@ -14,6 +14,11 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM.
 - [Meal Service](./lym/meals.md) 🚧
 
 
+### FAQ
+
+- **Why is my floor wet & sticky?**
+  - It seems to be some sort of desinfectant which is sticky and wet. Recommendation is to mop the flor and set the Aircon to dry mode with vents facing down. 
+
 ### Media
 
 - https://www.info.gov.hk/gia/general/202104/29/P2021042900883.htm
