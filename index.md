@@ -1,6 +1,6 @@
 ## Caribbean Coast Tower 11 Quarantine Cheat Sheet
 
-This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of information has been shared across whatsapp, however lineal conversation tools aren't always the right place to search for historical help, and we all keep repeating ourselves over and over. 
+This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of information has been shared across whatsapp, however linear conversation tools aren't always the right place to search for historical help, and we all keep repeating ourselves over and over. 
 
 ### Penny Bay 
 - [Location](./pb/location.md)
