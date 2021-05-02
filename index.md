@@ -26,6 +26,8 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
   - Execute your right to have an official notice by sending a message to:
     -  [+852 5195 6970](https://api.whatsapp.com/send?phone=+85251956970&text=We%20are%20being%20unlawfuly%20detained%20in%20the%20camp%20for%20several%20days%20already.%20We%20haven%27t%20seen%20our%20quarantine%20orders%20yet.%20Send%20us%20orders%20or%20we%20are%20walking%20away.)
     -  [+852 5195 7762](https://api.whatsapp.com/send?phone=+85251957762&text=We%20are%20being%20unlawfuly%20detained%20in%20the%20camp%20for%20several%20days%20already.%20We%20haven%27t%20seen%20our%20quarantine%20orders%20yet.%20Send%20us%20orders%20or%20we%20are%20walking%20away.)
+    -  [+852 5195 7062](https://api.whatsapp.com/send?phone=+85251957062&text=We%20are%20being%20unlawfuly%20detained%20in%20the%20camp%20for%20several%20days%20already.%20We%20haven%27t%20seen%20our%20quarantine%20orders%20yet.%20Send%20us%20orders%20or%20we%20are%20walking%20away.)
+
   - Your official note must say the period of time you are supposed to be on quarantine 
     ![officialnote-quarantine](https://user-images.githubusercontent.com/204105/116801799-87871b80-ab3f-11eb-80f3-3a3e5fdbadca.jpeg)
     
