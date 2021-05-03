@@ -41,7 +41,7 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 ### Channels
 Channels we are using to comunicate to each other
 
-- [WhatsApp](https://chat.whatsapp.com/FiJApkrruOj8v3H80HZjKt?fbclid=IwAR3ylpKY-mNhGnpX2czfcRDbpkCm0V3psNZS4lMn47Onp5_FgjVji2eGspc)
+- [WhatsApp](https://chat.whatsapp.com/Jv9qdN8Jf7nJEk31jyPHZ7)
 - [Telegram](https://t.me/joinchat/-RErA3x43EdkNGNl)
 
 ### Media
