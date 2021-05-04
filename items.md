@@ -13,6 +13,8 @@
 - shower gel 
 - fruits
 - data sim cards
+- toothbrush 
+- toilet paper 
 
 
 
