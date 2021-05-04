@@ -21,6 +21,8 @@ I know, this is not something you decided so it seems there's not much you can d
   - maybe you can also pack your game console, Nintendo Switch will be the easiest but I'm sure you can pack your play station 4 (maybe PS5 is too big) 
   - SIM cards with enough data (there's no wifi in this places) if your mobile data can be shared and it's enough then you are ok
   - Do you like alcoholic refreshments? pack some as you won't be allowed to get anything after you join. 
+  - inflatable mattress (cause the ones at the place are [really bad](./complaints.md))
+  - yoga mat
   
 
 
