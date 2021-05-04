@@ -23,6 +23,9 @@ I know, this is not something you decided so it seems there's not much you can d
   - Do you like alcoholic refreshments? pack some as you won't be allowed to get anything after you join. 
   - inflatable mattress (cause the ones at the place are [really bad](./complaints.md))
   - yoga mat
+  - a small multi-cooker can also help
+  - sauces (most of the food provided is tasteless 😞)
+  - if you bring canned food bring the can opener! (don't be like me 🤦‍♂️)
   
 
 
