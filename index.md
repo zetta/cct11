@@ -7,6 +7,7 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 - [Location](./pb/location.md)
 - [Item Delivery](./pb/delivery.md)
 - [Meal Service](./pb/meals.md) 🚧
+- [Map](./pb/map.md)
 
 ### LYM
 
