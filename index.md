@@ -43,6 +43,12 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 - **I'm not quarantined but I'm afraid this can happen to me, what do you suggest?**
   - Maybe you wanna take a look at the [rookie guide](./guide.md)
 
+### Petitions 
+- http://chng.it/gTBJtWKsjc
+- https://www.ipetitions.com/petition/hk-govt-has-to-allow-home-quarantine-be-prudent
+- https://www.ipetitions.com/petition/shorten-quarantine-for-tower-11-residents
+
+
 ### Channels
 Channels we are using to comunicate to each other
 
