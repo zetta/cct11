@@ -41,6 +41,11 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 - **Why is my floor wet & sticky?**
   - It seems to be some sort of desinfectant which is sticky and wet. Recommendation is to mop the flor and set the Aircon to dry mode with vents facing down. 
 
+- **What should I do in case of emergency?**
+  - It's recommended to immediately call the hotline, we also recommend to call **999**
+  > when i told the on site doctor i needed an ambulance immediately due to emergency, I waited for an hour and no ambulance arrived. I called 999 and it reached the camp gate in about 10mins.. and probably another 10mins for paperwork to bring us to the hospital. 
+ 
+
 - **I'm not quarantined but I'm afraid this can happen to me, what do you suggest?**
   - Maybe you wanna take a look at the [rookie guide](./guide.md)
 
