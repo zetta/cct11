@@ -17,6 +17,8 @@ This document tries to fit FAQ for inmates of Penny Bay and LYM. A lot of inform
 
 ### FAQ
 
+- **When are we going to be released**
+  - According to our quarantine notes we are going to be released on [May 21st 23:59](https://bit.ly/2RuSUrT)
 - **Which number do I use to file a complaint?**
   - Please call [21251111](tel:+85221251111)
   - [Here is a list of the common complaints we've made](./complaints.md)
