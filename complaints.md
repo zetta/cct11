@@ -4,15 +4,12 @@
   - Sharp edges
   - Metal bed rails
   - Lack of storage space so the stuff is not all over the place considering 14 to 21 days 
-
 - Staff handover is poor. Each staff that knocks especially for the medical staff need to be oriented for each request and consideration. Its a challenge for non chinese guests and non english speaking staff.
-
 - No SOP - hoping post this experience of having a bigger volume than usual in the quarantine centers will entail a review of their current processes.
   - How to count 21 days
-  - Addressing needs of various conditions may it be health related,  pregnancy and mental disability pregnancy etc. Each should have a process
-  - Expanded FAQs of new questions that arose. Review as well
-
-- Overall sensitivity of the place - quarantine is not a vacation or of someone’s choosing. Dont pur dirty zone explicitly on the cart. There can be surely a  better way to label stuff like those.
+  - Addressing needs of various conditions may it be health related,  pregnancy and mental disability. Each should have a process
+  - Expanded FAQs of new questions that arose. Review as well current
+- Overall sensitivity of the place - quarantine is not a vacation or of someone’s choosing. Dont put dirty zone explicitly on the cart. There can be surely a  better way to label stuff like those.
 - We were unlawfully detained in the camp without a proper quarantine order[1]. 
 - We were transfered since the early morning on April 30th for 21 days, however some official documents refer to May 21st as our release date. (Which is ultimately more than 21 days)
 - Inneficient catering service, some of the inmates aren't getting food on time, after hours of not having food people need to scream from their window to get some food. On the other hand other units receive more food than they need producing waste.
