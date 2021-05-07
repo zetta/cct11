@@ -12,6 +12,9 @@
   ![matress-size](https://user-images.githubusercontent.com/204105/116804799-582ed980-ab54-11eb-8858-3ed99ccfaa91.jpeg)
 - Bugs were found in the food
   ![bugsinfood](https://user-images.githubusercontent.com/204105/116805073-5c5bf680-ab56-11eb-9759-b1714d47a1dd.jpeg)
+- Hairs found also in the food
+  ![naan_hair](https://user-images.githubusercontent.com/204105/117458629-126f7800-af7d-11eb-93d0-754b0e300400.jpeg)
+
   
 
 
