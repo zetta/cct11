@@ -10,6 +10,7 @@
   ![blankets](https://user-images.githubusercontent.com/204105/116804912-51ed2d00-ab55-11eb-8d99-ce7845f158eb.jpeg)
 - Unconmfortable beds even for pregnant woman.
   ![matress-size](https://user-images.githubusercontent.com/204105/116804799-582ed980-ab54-11eb-8858-3ed99ccfaa91.jpeg)
+- Inmates got food poisoning from eating the supplied food.
 - Bugs were found in the food
   ![bugsinfood](https://user-images.githubusercontent.com/204105/116805073-5c5bf680-ab56-11eb-9759-b1714d47a1dd.jpeg)
 - Hairs found also in the food
